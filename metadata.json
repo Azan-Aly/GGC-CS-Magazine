@@ -1,0 +1,6 @@
+{
+  "name": "GGC Jhang CS Digital Magazine",
+  "description": "The premier digital computing magazine by the Department of Computer Science at Government Graduate College Jhang, featuring student research, FYP spotlights, and engineering insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
